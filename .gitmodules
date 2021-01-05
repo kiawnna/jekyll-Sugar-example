@@ -1,0 +1,9 @@
+[submodule "docs/tests"]
+	path = docs/tests
+	url = https://github.com/kiawnna/submodule-tests.git
+[submodule "docs/ui-components"]
+	path = docs/ui-components
+	url = https://github.com/kiawnna/submodule-ui-components.git
+[submodule "docs/utilities"]
+	path = docs/utilities
+	url = https://github.com/kiawnna/submodule-utilities.git
