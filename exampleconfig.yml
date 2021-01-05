@@ -1,0 +1,10 @@
+---
+exclude: ['README.markdown']
+permalink: ':title'
+highlighter: pygments
+safe: false
+title: 'Carte'
+elements: Elements
+formulas: Formulas
+commonResource: VDRs
+company: Cloud Elements
