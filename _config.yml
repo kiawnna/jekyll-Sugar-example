@@ -24,12 +24,12 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 ]
 
 # Site variables
-Elements: Elements
-Formulas: Formulas
-CommonResources: VDRs
-CompanyName: Cloud Elements
-Element: Element
-Formula: Formula
+Elements: Adapters
+Formulas: Procedures
+CommonResources: Common Resources
+CompanyName: Sugar Integrate
+Element: Adapter
+Formula: Procedure
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
