@@ -29,6 +29,7 @@ Formulas: Formulas
 CommonResources: VDRs
 CompanyName: Cloud Elements
 Element: Element
+Formula: Formula
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
